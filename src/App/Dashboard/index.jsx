@@ -14,7 +14,7 @@ const dashboardCards = [
 export const Dashboard = () => {
   return (
     <div className="dashboard">
-      <h1 className="dashboard-greeting">Hej, tu Szczepan 👋</h1>
+      <h1 className="dashboard-greeting">Hej, Natalia 👋</h1>
       <p className="dashboard-description">
         Poniżej znajdziesz najważniejsze informacje na temat mojej działalności.
       </p>
