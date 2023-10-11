@@ -1,0 +1,191 @@
+[33mcommit 11a39c9bf955f50c8d895385617abd1f9c7c0b4b[m[33m ([m[1;36mHEAD -> [m[1;32memptystrings[m[33m, [m[1;31morigin/emptystrings[m[33m)[m
+Author: nataliadrwal1984 <nataliadrwal1984@gmail.com>
+Date:   Fri Oct 6 18:47:29 2023 +0200
+
+    stringtheory
+
+[33mcommit 477c1a74e664aaf3ccb4cf263817d2669628d293[m
+Author: nataliadrwal1984 <nataliadrwal1984@gmail.com>
+Date:   Fri Oct 6 18:09:10 2023 +0200
+
+    added strings exercise
+
+[33mcommit b42a7c9dfa00ba0e26cc6ad518fc4562829779e0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 1b016dc 97233a9
+Author: nataliadrwal1984 <143964665+nataliadrwal1984@users.noreply.github.com>
+Date:   Wed Oct 4 19:44:51 2023 +0200
+
+    Merge pull request #5 from nataliadrwal1984/feat/position-responsive
+    
+    added position responsive exercises feature
+
+[33mcommit 97233a93d1b6254043cc3b2a84ef217dfdf20f85[m
+Author: nataliadrwal1984 <nataliadrwal1984@gmail.com>
+Date:   Wed Oct 4 19:39:59 2023 +0200
+
+    added position responsive exercises feature
+
+[33mcommit 1b016dc249897808db1afb6a86ec0ff930a57da4[m
+Merge: a29f0cd f8f14ed
+Author: nataliadrwal1984 <143964665+nataliadrwal1984@users.noreply.github.com>
+Date:   Wed Oct 4 10:19:36 2023 +0200
+
+    Merge pull request #4 from nataliadrwal1984/feat/header
+    
+    feat: header
+
+[33mcommit f8f14edeae7661b03dd093436daf4ab621b4cf12[m[33m ([m[1;31morigin/feat/header[m[33m, [m[1;32mfeat/header[m[33m)[m
+Author: nataliadrwal1984 <nataliadrwal1984@gmail.com>
+Date:   Wed Oct 4 10:15:06 2023 +0200
+
+    feat: header
+
+[33mcommit a29f0cd39138616a966eee9a7ede1702b4fb373c[m
+Author: nataliadrwal1984 <nataliadrwal1984@gmail.com>
+Date:   Tue Oct 3 14:03:53 2023 +0200
+
+    removed bla
+
+[33mcommit fd4727657b88c238900b67d9ae6c60f0af1ccdb6[m
+Author: nataliadrwal1984 <nataliadrwal1984@gmail.com>
+Date:   Tue Oct 3 13:52:53 2023 +0200
+
+    added bla
+
+[33mcommit 39a53d484cba3eaa43c0e11f3b88a40291d1f3c9[m
+Merge: 7955ff3 cb91373
+Author: nataliadrwal1984 <143964665+nataliadrwal1984@users.noreply.github.com>
+Date:   Wed Sep 27 20:54:08 2023 +0200
+
+    Merge pull request #3 from nataliadrwal1984/feat/faq
+    
+    added faq
+
+[33mcommit cb91373d40eac7039ddb518ac0a072e711a3dee6[m[33m ([m[1;31morigin/feat/faq[m[33m)[m
+Author: Natalia Drwal <nataliadrwal1984@gmail.com>
+Date:   Wed Sep 27 20:53:10 2023 +0200
+
+    added faq
+
+[33mcommit 7955ff34cfb797e04c721f893a3b99219e0e8d51[m
+Merge: 78e115d e44affe
+Author: nataliadrwal1984 <143964665+nataliadrwal1984@users.noreply.github.com>
+Date:   Tue Sep 26 17:40:53 2023 +0200
+
+    Merge pull request #2 from nataliadrwal1984/feat/multimedia-props
+    
+    Feat/multimedia props
+
+[33mcommit e44affef2aeca9fba6b739a891312508192f58a2[m[33m ([m[1;31morigin/feat/multimedia-props[m[33m)[m
+Author: Natalia Drwal <nataliadrwal1984@gmail.com>
+Date:   Tue Sep 26 13:52:22 2023 +0200
+
+    added vide, background, opacity exercises
+
+[33mcommit c610aa4e88774af3dcabf858d6fb625e2fb78679[m
+Author: Natalia Drwal <nataliadrwal1984@gmail.com>
+Date:   Wed Sep 20 20:14:14 2023 +0200
+
+    git exercise 2
+
+[33mcommit d3734d4ff4c0bc55d1bb2ba6f708a80b52a0e6fc[m
+Author: Natalia Drwal <nataliadrwal1984@gmail.com>
+Date:   Wed Sep 20 18:27:53 2023 +0200
+
+    feat: event exercise 1
+
+[33mcommit 372f430b0b7e1b80f34be4bcd1c4d6f5b6812a03[m[33m ([m[1;31morigin/nataliadr/2023-09-18/basic-work-with-react-component[m[33m)[m
+Author: Natalia Drwal <nataliadrwal1984@gmail.com>
+Date:   Tue Sep 19 19:42:27 2023 +0200
+
+    feat: new color
+
+[33mcommit 376dc84ff386511f8e70c8ba68819c82efcf6d03[m
+Author: Natalia Drwal <nataliadrwal1984@gmail.com>
+Date:   Tue Sep 19 14:34:47 2023 +0200
+
+    Zajecia 2023-09-18
+
+[33mcommit 78e115d0b56bbf7b97237c437b0b323faba11966[m
+Merge: 5cbc6c4 1403188
+Author: Michał <marhw89@gmail.com>
+Date:   Tue Aug 29 11:54:59 2023 +0200
+
+    Merge pull request #201 from Saklfash/template-fix
+    
+    Template fix
+
+[33mcommit 14031885b8afa266e8488b6d82924e8fccaebb34[m
+Author: Michał Hadrysiak <michal.hadrysiak@indiebi.com>
+Date:   Sun Aug 27 17:45:07 2023 +0200
+
+    Dodanie konfiguracji do wtyczki ESLinta
+
+[33mcommit 0cb933b1024782ff5100141354b9849a2a505283[m
+Author: Michał Hadrysiak <michal.hadrysiak@indiebi.com>
+Date:   Sun Aug 27 17:42:47 2023 +0200
+
+    naprawa routingów
+
+[33mcommit ff3cc555a602a01b998c8e58ecd7e4d7ff079e3c[m
+Author: Michał Hadrysiak <michal.hadrysiak@indiebi.com>
+Date:   Sun Aug 27 17:42:29 2023 +0200
+
+    Poprawa importu
+
+[33mcommit 5cbc6c4cc10edd811d6166cb5bb7e9edc669c31a[m
+Merge: 11f5843 3bcbd03
+Author: Michał <marhw89@gmail.com>
+Date:   Tue Jul 18 16:52:56 2023 +0200
+
+    Merge pull request #148 from artur-pomeranian-it/bugfix/routing-warning-in-excercises
+    
+    fix routing warning
+
+[33mcommit 3bcbd03d8dc10951b3fe06977836bee074781711[m
+Author: Artur Jedrzejczak <artur.jedrzejczak@pomeranianstartit.pl>
+Date:   Tue Jul 18 16:20:12 2023 +0200
+
+    fix routing warning
+
+[33mcommit 11f5843249b3a99027410072894c5cba144c5864[m
+Author: Marhw <marhw89@gmail.com>
+Date:   Wed May 10 21:00:06 2023 +0200
+
+    new icons and snow-wolf
+
+[33mcommit ac80826c4b0bc308627bcd1c15370e80b030bf38[m
+Merge: 1063318 6c881f9
+Author: Michał <marhw89@gmail.com>
+Date:   Wed May 10 20:38:40 2023 +0200
+
+    Merge pull request #26 from Saklfash/blok-15/images
+    
+    Blok 15/images
+
+[33mcommit 6c881f9c0cba374c1f91f3469cf608f2f207b7df[m
+Author: Michał Hadrysiak <michal.hadrysiak@indiebi.com>
+Date:   Tue May 9 11:46:09 2023 +0200
+
+    blok 15 - new images
+
+[33mcommit 1063318296d1bacd147a6f0cc99e25f11de57121[m
+Merge: 17aa283 b0ae20e
+Author: Michał <marhw89@gmail.com>
+Date:   Sun May 7 00:48:11 2023 +0200
+
+    Merge pull request #16 from Saklfash/new-icons
+    
+    New svg icons
+
+[33mcommit b0ae20e0c9a19d81a95b61b005adfff195ecfc09[m
+Author: Michał Hadrysiak <michal.hadrysiak@indiebi.com>
+Date:   Wed May 3 22:50:54 2023 +0200
+
+    eslint extension config
+
+[33mcommit 17aa2838cb7bc9d94615053699587dd4a2b26478[m
+Author: Marhw <marhw89@gmail.com>
+Date:   Fri Apr 14 21:46:16 2023 +0200
+
+    initnal commit
