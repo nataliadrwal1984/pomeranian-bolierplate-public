@@ -1,10 +1,15 @@
-import { ArrayBasics } from './index';
+import { JsDateTime } from './index';
 
-export const arrayBasicsMetaData = {
-  path: 'array-basics',
+export const dateTimeMetaData = {
+  path: 'js-and-date',
+
   date: '10.10.2023',
-  linkLabel: 'Tablice w JS',
+
+  linkLabel: 'Daty i timestampy',
+
   blockNo: 20,
-  element: <ArrayBasics />,
-  tags: ['arrays', 'javascript'],
+
+  element: <JsDateTime />,
+
+  tags: ['timestamp', 'date', 'javascript'],
 };

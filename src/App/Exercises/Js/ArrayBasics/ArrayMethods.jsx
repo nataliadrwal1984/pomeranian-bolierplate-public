@@ -1,15 +1,11 @@
-// Continue
-//   for (let i = 5; i > 0; i--) {
-//     if (i > 3) {
+//   for (let i = 0; i < NUMBERS.length; i++) {
+//     const num = NUMBERS[i];
+//     if (num % 2 === 0) {
+//       console.log('Jestem parzystą liczbą:', num);
 //       continue;
 //     }
-//     console.log(i);
+//     console.log('Jestem nieparzystą liczbą:', num);
 //   }
 
-// Break
-for (let i = 0; i <= 5; i++) {
-  if (i === 3) {
-    break;
-  }
-  console.log(i);
-}
+const firstEven = NUMBERS.find((num) => num % 2 === 0);
+console.log(firstEven);
